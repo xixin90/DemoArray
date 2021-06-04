@@ -1,5 +1,3 @@
 <resources>
     <string name="app_name">Demo Array</string>
-    <string name="fruits">Fruits</string>
-    <string name="Line">====</string>
 </resources>
